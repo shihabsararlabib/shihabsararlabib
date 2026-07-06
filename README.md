@@ -16,15 +16,11 @@ and Laravel, and I'm open to backend/software engineering and AI/ML-adjacent rol
 ---
 
 ### 📊 GitHub Stats
- 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shihabsararlabib&show_icons=true&count_private=true&theme=dark&border_color=30363d" alt="GitHub Stats" height="165">
-  <img src="https://streak-stats.demolab.com?user=shihabsararlabib&theme=dark&border=30363d" alt="GitHub Streak" height="165">
+  <img src="https://raw.githubusercontent.com/shihabsararlabib/shihabsararlabib/main/metrics.svg" alt="GitHub Metrics">
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shihabsararlabib&layout=compact&theme=dark&border_color=30363d" alt="Top Languages" height="165">
-</p>
----
+----
 
 ### 🛠️ Languages & Tools
  
