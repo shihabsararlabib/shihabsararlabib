@@ -15,12 +15,6 @@ and Laravel, and I'm open to backend/software engineering and AI/ML-adjacent rol
 - 📫 **labibshihab@gmail.com** | [LinkedIn](https://linkedin.com/in/shihabsararlabib/) | [Portfolio](https://shihabsararlabib.github.io/Shihab-Portfolio/)
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shihabsararlabib/shihabsararlabib/main/metrics.svg" alt="GitHub Metrics">
-</p>
-----
 
 ### 🛠️ Languages & Tools
  
